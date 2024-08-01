@@ -1,0 +1,86 @@
+Here is the structured JSON output based on the provided resume:
+
+{
+  "Name": "Sudarshan Ingale",
+  "Contact Information": {
+    "Email": "sudarshan.22110852@viit.ac.in",
+    "LinkedIn": "https://www.linkedin.com/in/sudarshan-ingale-izn1/",
+    "GitHub": "https://github.com/sudgit911",
+    "Phone": "+91 9403674249"
+  },
+  "Summary": "",
+  "Education": [
+    {
+      "Institution": "Vishwakarma Institute of Information Technology, Pune",
+      "Degree": "B-TECH Electronics and Telecommunication",
+      "Expected Graduation": "June 2025",
+      "CGPA": "8.04/10"
+    },
+    {
+      "Institution": "Vasantrao Naik Mahavidyalaya, Aurangabad",
+      "Degree": "Class XII",
+      "Graduation": "June 2021",
+      "Percentage": "90.6%"
+    },
+    {
+      "Institution": "Dnyanada English School, Aurangabad",
+      "Degree": "Class X",
+      "Graduation": "June 2019",
+      "Percentage": "89.6%"
+    }
+  ],
+  "Experience": [
+    {
+      "Position": "BLE Gateway Network",
+      "Company": "Integrated Active Monitoring Pvt Ltd, Pune",
+      "Duration": "07/2023 - 12/2023",
+      "Responsibilities": [
+        "Implemented a Raspberry Pi Server using Bluetooth low energy technology to facilitate remote data transfer from a mobile app to the server terminal.",
+        "Optimized the transfer protocol, resulting in a 30% reduction in data transfer time and a 15% increase in system efficiency."
+      ]
+    },
+    {
+      "Position": "Gateway Piconet Communication",
+      "Company": "Integrated Active Monitoring Pvt Ltd, Pune",
+      "Duration": "01/2024 - 05/2024",
+      "Responsibilities": [
+        "Developed and implemented remote SSH Client and Server Scripts on 2 Raspberry Pi devices to enable efficient data transfer via Bluetooth low energy technology.",
+        "Enhanced transfer protocols by integrating error-checking mechanisms, improving transfer reliability by 25%."
+      ]
+    }
+  ],
+  "Skills": {
+    "Technical Skills": ["Data Analysis", "Machine Learning", "Database Management (MySQL)", "AWS Cloud (Lambda, EC2)", "DSA"],
+    "Languages": ["Python", "R", "SQL", "C++", "HTML", "CSS"],
+    "Frameworks/Tools": ["Jupyter Notebook", "Git/GitHub", "Flask", "Django", "TensorFlow", "Pandas", "NumPy", "Streamlit", "Scikit-learn", "PyTorch"]
+  },
+  "Certifications": [
+    "IBM Data Science (ongoing)",
+    "AICTE - Google AI-ML Virtual Internship (01/2024 - 03/2024)",
+    "AICTE - AWS CLOUD Virtual Internship (04/2024 - 06/2024)",
+    "Data Structures and Algorithms using Java - Infosys springboard (12/2022)",
+    "GATE Data Science and Artificial Intelligence 2025 (ongoing)"
+  ],
+  "Projects": [
+    {
+      "Title": "Machine Learning Web App with Streamlit",
+      "Technologies": ["Python", "Streamlit"],
+      "Description": "Developed a dynamic machine learning web app using Streamlit and Python. Transformed Python scripts into interactive web interfaces by leveraging the Mushrooms dataset. Implemented and compared Support Vector, Logistic Regression, and Random Forest classifiers, achieving a 92% prediction accuracy for real-time data."
+    },
+    {
+      "Title": "Python WebApp Development with ChatGPT",
+      "Technologies": ["VS Code", "Python", "ChatGPT"],
+      "Description": "Created a full-stack news aggregator app with real-time news retrieval via News API. Designed an intuitive UI using HTML and Bootstrap. Leveraged ChatGPT for backend service automation, debugging, and deployment. Implemented CI/CD practices, reducing deployment time by 50% and increasing code quality."
+    },
+    {
+      "Title": "MRI Brain Tumor Classification",
+      "Technologies": ["ML", "Python"],
+      "Description": "Applied machine learning techniques, specifically CNNs, to analyze MRI brain images and classify them into 4 types using VGG16. Optimized hyperparameters and employed data augmentation techniques, achieving a 92% classification accuracy."
+    },
+    {
+      "Title": "Supermarket Management System",
+      "Technologies": ["VS Code", "Python"],
+      "Description": "Developed a Supermarket Management System using VS Code and Python to streamline operations such as viewing, adding, purchasing, searching, and editing inventory items. Implemented efficient algorithms, enhancing operational efficiency by 40% and reducing processing time by 20%."
+    }
+  ]
+}
